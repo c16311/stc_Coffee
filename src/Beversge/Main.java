@@ -1,11 +1,10 @@
 
 package Beversge;
-
-import java.util.ArrayList;
-import java.util.List;
-
 /**
- *
+ * 
+https://github.com/c16311/stc_Coffee.git
+
+
  * @author keiichirou
  */
 public class Main {
